@@ -11,6 +11,10 @@
 
 ```text
 https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=https://<PROJECT_NAME>.deno.dev/<BOT_TOKEN>
+
+https://api.telegram.org/bot5993377175:AAHeqM4u-zh0DcG3dPb3-s2E4QeSX1v2c5U/setWebhook?url=https://my-tiny-bot.deno.dev/5993377175:AAHeqM4u-zh0DcG3dPb3-s2E4QeSX1v2c5U
+
+
 ```
 
 ### Deploying with GitHub (easy)
